@@ -1,0 +1,97 @@
+body  {
+  background-image: url('imagcss.jpg');
+  
+
+}
+h1{
+
+color:wheat;
+font-size: 100px;
+
+}
+
+h2{
+
+color:wheat;
+font-size: 80px; ;
+
+
+}
+
+.form{
+
+color: wheat;
+font-size: 25px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+
+
+    
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color:lightskyblue;
+}
+p{
+color: wheat;
+  
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+font-size:30px;
+
+}
+ li{
+  color: wheat;
+  
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  font-size:40px;
+  
+
+
+
+}
+
+
+.button{
+background-color: lightskyblue;
+border-radius: 12px;
+font-family:'Lucida Sans';
+border-color: black;
+padding:20px ;
+
+}
+
+a{
+ color:lightskyblue;
+
+
+}
